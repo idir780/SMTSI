@@ -59,10 +59,7 @@
     <!-- Title -->
     <div class="page-title">PROTOCOLE_INSAR_SMTSI_PROJECT_TEAM</div>
 
-    <!-- CRAAG logo at the center (replace with your logo) -->
-    <div class="logo-container">
-        <img src="https://i.ibb.co/XZc5S0j/Webp-net-resizeimage.jpg" alt="Logo CRAAG" class="logo-image">
-    </div>
+ 
     
 <!-- Additional Screenshot Image in the center -->
     <div>
